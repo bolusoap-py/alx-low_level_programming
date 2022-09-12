@@ -1,1 +1,2 @@
-learning everything about C
+school of C
+

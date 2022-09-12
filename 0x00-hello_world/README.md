@@ -1,1 +1,2 @@
-learning C basics
+learning C from scratch
+
