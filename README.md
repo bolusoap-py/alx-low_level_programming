@@ -1,2 +1,1 @@
-school of C
-
+Learning C

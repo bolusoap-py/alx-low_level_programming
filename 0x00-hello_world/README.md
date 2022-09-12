@@ -1,2 +1,1 @@
-learning C from scratch
-
+learning C from.beginning
