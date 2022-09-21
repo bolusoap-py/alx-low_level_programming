@@ -1,4 +1,4 @@
-vim #include "main.h"
+#include "main.h"
 
 /**
  * print_diagonal - check for a digit
